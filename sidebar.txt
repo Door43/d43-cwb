@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cwb:home|Door43 (cwb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cwb|d43-cwb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cwb/archive/master.zip|d43-cwb.zip]]
+
+**Recent Changes**
+{{changes>ns = cwb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cwb|Ethnologue data]]
+
